@@ -10,19 +10,22 @@ one core in Rust, a web panel and first-party clients.
 </p>
 
 <p align="center">
-<a href="https://veilway-project.github.io/veilway-docs/">Documentation</a> | <a href="https://veilway-project.github.io/veilway-docs/fa/">مستندات فارسی</a>
+<a href="https://veilway-project.github.io/">Website</a> | <a href="https://veilway-project.github.io/veilway-docs/">Documentation</a> | <a href="https://veilway-project.github.io/veilway-docs/fa/">مستندات فارسی</a>
 </p>
 
 ## Status
 
-Veilway is early software under active development and has had no outside security review. The tunnel encryption is WireGuard's, unchanged. Everything built around it to make the traffic harder to recognise is experimental, and the documentation says so wherever it applies. Do not rely on it where being detected has consequences.
+Veilway is early software under active development and has had no outside security review. The tunnel encryption is WireGuard's, unchanged. Everything built around it to make the traffic harder to recognize is experimental, and the documentation says so wherever it applies. Do not rely on it where being detected has consequences.
 
 ## Repositories
 
 | Repository | What it holds |
 |---|---|
 | [veilway](https://github.com/veilway-project/veilway) | The core, the control API and its TypeScript client, the command line tool and the desktop client |
-| [veilway-docs](https://github.com/veilway-project/veilway-docs) | The documentation site, in English and Persian, including the draft protocol specification |
+| [veilway-ui](https://github.com/veilway-project/veilway-ui) | The design system and translations shared by the panel and the apps |
+| [veilway-docs](https://github.com/veilway-project/veilway-docs) | The documentation site, in English and Persian, including the draft protocol specification. Published at [veilway-project.github.io/veilway-docs](https://veilway-project.github.io/veilway-docs/) |
+| [veilway-project.github.io](https://github.com/veilway-project/veilway-project.github.io) | The website, published at [veilway-project.github.io](https://veilway-project.github.io/) |
+| [.github](https://github.com/veilway-project/.github) | This profile and the default community files for every repository |
 
 ## Principles
 
