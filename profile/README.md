@@ -22,6 +22,7 @@ Veilway is early software under active development and has had no outside securi
 | Repository | What it holds |
 |---|---|
 | [veilway](https://github.com/veilway-project/veilway) | The core, the control API and its TypeScript client, the command line tool and the desktop client |
+| [veilway-panel](https://github.com/veilway-project/veilway-panel) | The web panel: users, devices, subscription links, the node's settings and traffic, in English and Persian |
 | [veilway-ui](https://github.com/veilway-project/veilway-ui) | The design system and translations shared by the panel and the apps |
 | [veilway-docs](https://github.com/veilway-project/veilway-docs) | The documentation site, in English and Persian, including the draft protocol specification. Published at [veilway-project.github.io/veilway-docs](https://veilway-project.github.io/veilway-docs/) |
 | [veilway-project.github.io](https://github.com/veilway-project/veilway-project.github.io) | The website, published at [veilway-project.github.io](https://veilway-project.github.io/) |
