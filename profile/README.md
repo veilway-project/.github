@@ -38,3 +38,7 @@ Veilway is early software under active development and has had no outside securi
 ## Security reports
 
 Please report vulnerabilities in private, as [SECURITY.md](https://github.com/veilway-project/.github/blob/main/SECURITY.md) describes. Do not open a public issue for one.
+
+## Questions
+
+Questions and help with setup go to [GitHub Discussions](https://github.com/veilway-project/veilway/discussions), in English or Persian. Issues are for bugs and concrete feature requests.
