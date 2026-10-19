@@ -10,7 +10,11 @@ one core in Rust, a web panel and first-party clients.
 </p>
 
 <p align="center">
-<a href="https://veilway-project.github.io/">Website</a> | <a href="https://veilway-project.github.io/veilway-docs/">Documentation</a> | <a href="https://veilway-project.github.io/veilway-docs/fa/">مستندات فارسی</a>
+<a href="https://veilway-project.github.io/">Website</a> | <a href="https://veilway-project.github.io/veilway-docs/">Documentation</a> | <a href="https://veilway-project.github.io/veilway-docs/fa/">مستندات فارسی</a> | <a href="https://t.me/VeilwayGroup">Telegram</a>
+</p>
+
+<p align="center">
+<a href="https://t.me/VeilwayGroup"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-VeilwayGroup-26A5E4?logo=telegram&logoColor=white"></a>
 </p>
 
 ## Status
@@ -41,4 +45,4 @@ Please report vulnerabilities in private, as [SECURITY.md](https://github.com/ve
 
 ## Questions
 
-Questions and help with setup go to [GitHub Discussions](https://github.com/veilway-project/veilway/discussions), in English or Persian. Issues are for bugs and concrete feature requests.
+Questions and help with setup go to [GitHub Discussions](https://github.com/veilway-project/veilway/discussions) or the [Telegram group](https://t.me/VeilwayGroup), in English or Persian. Issues are for bugs and concrete feature requests.
